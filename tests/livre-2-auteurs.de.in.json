@@ -1,0 +1,34 @@
+{
+  "citations": [],
+  "references": [
+    {
+      "id": "FrancoisSociologieHistoriqueCapitalisme2021",
+      "author": [
+        {
+          "family": "François",
+          "given": "Pierre"
+        },
+        {
+          "family": "Lemercier",
+          "given": "Claire"
+        }
+      ],
+      "collection-title": "Grands repères. Manuels",
+      "event-place": "Paris",
+      "ISBN": "978-2-7071-7784-1",
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "number-of-pages": "428",
+      "publisher": "La Découverte",
+      "publisher-place": "Paris",
+      "title": "Sociologie historique du capitalisme",
+      "type": "book"
+    }
+  ],
+  "lang": "de-CH"
+}

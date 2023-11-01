@@ -1,0 +1,45 @@
+{
+  "citations": [],
+  "references": [
+    {
+      "id": "Knoch-MundZukunftIstInterdisziplinaer2022",
+      "accessed": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            1
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Knoch-Mund",
+          "given": "Gaby"
+        }
+      ],
+      "citation-key": "knoch-mundZukunftIstInterdisziplinaer2022",
+      "container-title": "Bibliothek Forschung und Praxis",
+      "DOI": "10.1515/bfp-2022-0057",
+      "ISSN": "1865-7648",
+      "issue": "3",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "language": "de",
+      "license": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
+      "page": "356-358",
+      "publisher": "De Gruyter",
+      "source": "www.degruyter.com",
+      "title": "Die Zukunft ist interdisziplinär – Der Master in Archiv-, Bibliotheks- und Informationswissenschaft der Universitäten Bern und Lausanne",
+      "type": "article-journal",
+      "URL": "https://www.degruyter.com/document/doi/10.1515/bfp-2022-0057/html",
+      "volume": "46"
+    }
+  ],
+  "lang": "fr-FR"
+}

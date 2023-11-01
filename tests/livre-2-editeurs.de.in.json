@@ -1,0 +1,35 @@
+{
+  "citations": [],
+  "references": [
+  {
+    "id": "DejungFoundationsWorldwideEconomic2013",
+    "collection-title": "Cambridge studies in the emergence of global enterprise",
+    "editor": [
+      {
+        "family": "Dejung",
+        "given": "Christof"
+      },
+      {
+        "family": "Petersson",
+        "given": "Niels P."
+      }
+    ],
+    "event-place": "Cambridge",
+    "ISBN": "978-1-107-03015-2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "number-of-pages": "277",
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "title": "The foundations of worldwide economic integration: power, institutions, and global markets, 1850-1930",
+    "title-short": "The foundations of worldwide economic integration",
+    "type": "book"
+  }
+  ],
+  "lang": "de-CH"
+}
