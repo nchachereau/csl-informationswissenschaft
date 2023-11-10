@@ -1,0 +1,33 @@
+{
+  "citations": [],
+  "references": [
+    {
+      "id": "Kreis2014",
+      "author": [
+        {
+          "family": "Kreis",
+          "given": "Georg"
+        }
+      ],
+      "citation-key": "Kreis2014",
+      "edition": "2",
+      "event-place": "Zürich",
+      "ISBN": "978-3-03823-844-7",
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "number-of-pages": "299",
+      "publisher": "Neue Zürcher Zeitung",
+      "publisher-place": "Zürich",
+      "source": "Library of Congress ISBN",
+      "title": "Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918",
+      "title-short": "Insel der unsicheren Geborgenheit",
+      "type": "book"
+    }
+  ],
+  "lang": "fr-FR"
+}

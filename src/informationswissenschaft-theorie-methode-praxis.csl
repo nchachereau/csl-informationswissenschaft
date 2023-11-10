@@ -96,6 +96,7 @@
         </group>
         <text macro="type-description"/>
         <text macro="alt-publisher"/>
+        <text macro="edition"/>
         <group delimiter=": ">
           <text macro="place"/>
           <text macro="publishing-house"/>
@@ -361,6 +362,23 @@
              studio for video recordings,
              network for broadcasts -->
         <text variable="publisher"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if type="book chapter entry-dictionary entry-encyclopedia" match="any">
+        <choose>
+          <if is-numeric="edition">
+            <group delimiter="&#160;">
+              <number variable="edition" form="ordinal"/>
+              <label variable="edition"/>
+            </group>
+          </if>
+          <else>
+            <text variable="edition"/>
+          </else>
+        </choose>
       </if>
     </choose>
   </macro>
