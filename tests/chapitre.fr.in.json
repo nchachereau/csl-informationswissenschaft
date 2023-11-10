@@ -1,0 +1,37 @@
+{
+  "citations": [],
+  "references": [
+  {
+    "id": "hertnerSocietesFinancieresSuisses1987",
+    "author": [
+      {
+        "family": "Hertner",
+        "given": "Peter"
+      }
+    ],
+    "citation-key": "hertnerSocietesFinancieresSuisses1987",
+    "container-title": "Un siècle d’électricité dans le monde 1880-1980. Actes du 1er colloque international d’histoire de l’électricité, Paris, 15-17 avril 1986",
+    "editor": [
+      {
+        "family": "Cardot",
+        "given": "Fabienne"
+      }
+    ],
+    "event-place": "Paris",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "341-355",
+    "publisher": "Association pour l’histoire de l’électricité en France",
+    "publisher-place": "Paris",
+    "title": "Les sociétés financières suisses et le développement de l’industrie électrique jusqu’à la Première Guerre mondiale",
+    "title-short": "Les sociétés financières suisses…",
+    "type": "chapter"
+  }
+],
+  "lang": "fr-FR"
+}
