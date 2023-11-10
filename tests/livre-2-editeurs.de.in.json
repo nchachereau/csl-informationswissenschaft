@@ -1,5 +1,8 @@
 {
-  "citations": [],
+    "citations": [
+        [ { "id": "DejungFoundationsWorldwideEconomic2013", "locator": "45-48" } ],
+        [ { "id": "DejungFoundationsWorldwideEconomic2013" } ]
+  ],
   "references": [
   {
     "id": "DejungFoundationsWorldwideEconomic2013",

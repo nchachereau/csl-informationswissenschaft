@@ -1,0 +1,30 @@
+{
+  "citations": [],
+  "references": [
+    {
+      "id": "RathsZwischenTheorieUnd1997",
+      "author": [
+        {
+          "family": "Raths",
+          "given": "Roland"
+        }
+      ],
+      "event-place": "Zurich",
+      "publisher-place": "Zurich",
+      "genre": "Mémoire de licence",
+      "issued": {
+        "date-parts": [
+          [
+            1997
+          ]
+        ]
+      },
+      "number-of-pages": "138",
+      "publisher": "Université de Zurich",
+      "title": "Zwischen Theorie und Praxis : die Akademisierung des Maschineningenieurswesen in der Schweiz 1850-1914",
+      "title-short": "Zwischen Theorie und Praxis",
+      "type": "thesis"
+    }
+  ],
+  "lang": "fr-FR"
+}
