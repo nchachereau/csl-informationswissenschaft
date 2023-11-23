@@ -6,12 +6,12 @@
     <link href="http://www.zotero.org/styles/informationswissenschaft-theorie-methode-praxis" rel="self"/>
     <link href="http://www.zotero.org/styles/infoclio-de" rel="template"/>
     <link href="http://www.zotero.org/styles/infoclio-fr-nocaps" rel="template"/>
+    <link href="https://bop.unibe.ch/iw/about/submissions" rel="documentation"/>
     <author>
       <name>Nicolas Chachereau</name>
       <email>nicolas.chachereau@unil.ch</email>
     </author>
     <category citation-format="note"/>
-    <category field="history"/>
     <category field="social_science"/>
     <updated>2018-03-27T11:58:13+02:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
