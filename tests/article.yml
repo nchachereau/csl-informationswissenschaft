@@ -1,0 +1,12 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: de-CH
+  input:
+  - Knoch-MundZukunftIstInterdisziplinaer2022
+  bibliography:
+  - 'Knoch-Mund, Gaby, «Die Zukunft ist interdisziplinär – Der Master in Archiv-, Bibliotheks- und Informationswissenschaft der Universitäten Bern und Lausanne», <i>Bibliothek Forschung und Praxis</i> 46 (3), 2022, S. 356–358. Online: &#60;https://doi.org/10.1515/bfp-2022-0057&#62;, Stand: 01.11.2023.'
+- lang: fr
+  input:
+  - Knoch-MundZukunftIstInterdisziplinaer2022
+  bibliography:
+  - 'Knoch-Mund, Gaby, « Die Zukunft ist interdisziplinär – Der Master in Archiv-, Bibliotheks- und Informationswissenschaft der Universitäten Bern und Lausanne », <i>Bibliothek Forschung und Praxis</i> 46 (3), 2022, pp. 356‑358. En ligne: &#60;https://doi.org/10.1515/bfp-2022-0057&#62;, consulté le: 01.11.2023.'

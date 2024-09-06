@@ -1,0 +1,12 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: de-CH
+  input:
+  - hertnerSocietesFinancieresSuisses1987
+  bibliography:
+  - 'Hertner, Peter, «Les sociétés financières suisses et le développement de l’industrie électrique jusqu’à la Première Guerre mondiale», in: Cardot, Fabienne (Hg.): <i>Un siècle d’électricité dans le monde 1880-1980. Actes du 1er colloque international d’histoire de l’électricité, Paris, 15-17 avril 1986</i>, Paris: Association pour l’histoire de l’électricité en France, 1987, S. 341–355.'
+- lang: fr
+  input:
+  - hertnerSocietesFinancieresSuisses1987
+  bibliography:
+  - 'Hertner, Peter, « Les sociétés financières suisses et le développement de l’industrie électrique jusqu’à la Première Guerre mondiale », in: Cardot, Fabienne (éd.): <i>Un siècle d’électricité dans le monde 1880-1980. Actes du 1er colloque international d’histoire de l’électricité, Paris, 15-17 avril 1986</i>, Paris: Association pour l’histoire de l’électricité en France, 1987, pp. 341‑355.'

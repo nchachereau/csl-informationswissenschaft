@@ -1,0 +1,7 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: fr
+  input:
+  - ClavinSecuringWorldEconomy2013
+  bibliography:
+  - 'Clavin, Patricia, <i>Securing the World Economy: The Reinvention of the League of Nations, 1920-1946</i>, Oxford: Oxford University Press, 2013.'

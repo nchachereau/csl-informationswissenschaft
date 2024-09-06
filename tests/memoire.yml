@@ -1,0 +1,7 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: fr
+  input:
+  - RathsZwischenTheorieUnd1997
+  bibliography:
+  - 'Raths, Roland, <i>Zwischen Theorie und Praxis: die Akademisierung des Maschineningenieurswesen in der Schweiz 1850-1914</i>, Mémoire de licence, Zurich: Université de Zurich, 1997.'

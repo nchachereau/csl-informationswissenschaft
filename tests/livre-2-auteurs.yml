@@ -1,0 +1,24 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: de-CH
+  input:
+  - FrancoisSociologieHistoriqueCapitalisme2021
+  - FrancoisSociologieHistoriqueCapitalisme2021 p. 1
+  - FrancoisSociologieHistoriqueCapitalisme2021
+  citations:
+  - 'François, Pierre; Lemercier, Claire, <i>Sociologie historique du capitalisme</i>, Paris: La Découverte, 2021 (Grands repères. Manuels).'
+  - Ebd., S. 1.
+  - François; Lemercier, <i>Sociologie historique du capitalisme</i>, <i>op. cit.</i>
+  bibliography:
+  - 'François, Pierre; Lemercier, Claire, <i>Sociologie historique du capitalisme</i>, Paris: La Découverte, 2021 (Grands repères. Manuels).'
+- lang: fr
+  input:
+  - FrancoisSociologieHistoriqueCapitalisme2021
+  - FrancoisSociologieHistoriqueCapitalisme2021 p. 1
+  - FrancoisSociologieHistoriqueCapitalisme2021
+  citations:
+  - 'François, Pierre; Lemercier, Claire, <i>Sociologie historique du capitalisme</i>, Paris: La Découverte, 2021 (Grands repères. Manuels).'
+  - Ibid., p. 1.
+  - François; Lemercier, <i>Sociologie historique du capitalisme</i>, <i>op. cit.</i>
+  bibliography:
+  - 'François, Pierre; Lemercier, Claire, <i>Sociologie historique du capitalisme</i>, Paris: La Découverte, 2021 (Grands repères. Manuels).'

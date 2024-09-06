@@ -1,0 +1,12 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: de-CH
+  input:
+  - Kreis2014
+  bibliography:
+  - 'Kreis, Georg, <i>Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918</i>, 2. Ausgabe, Zürich: Neue Zürcher Zeitung, 2014.'
+- lang: fr
+  input:
+  - Kreis2014
+  bibliography:
+  - 'Kreis, Georg, <i>Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918</i>, 2<sup>e</sup> édition, Zürich: Neue Zürcher Zeitung, 2014.'

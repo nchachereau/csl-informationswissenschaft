@@ -1,0 +1,16 @@
+style: src/informationswissenschaft-theorie-methode-praxis.csl
+tests:
+- lang: de-CH
+  input:
+  - DejungFoundationsWorldwideEconomic2013 p. 45-48
+  - DejungFoundationsWorldwideEconomic2013
+  citations:
+  - 'Dejung, Christof; Petersson, Niels P. (Hg.), <i>The foundations of worldwide economic integration: power, institutions, and global markets, 1850-1930</i>, Cambridge: Cambridge University Press, 2013 (Cambridge studies in the emergence of global enterprise), S. 45–48.'
+  - Dejung; Petersson (Hg.), <i>The foundations of worldwide economic integration</i>, <i>op. cit.</i>
+  bibliography:
+  - 'Dejung, Christof; Petersson, Niels P. (Hg.), <i>The foundations of worldwide economic integration: power, institutions, and global markets, 1850-1930</i>, Cambridge: Cambridge University Press, 2013 (Cambridge studies in the emergence of global enterprise).'
+- lang: fr
+  input:
+  - DejungFoundationsWorldwideEconomic2013
+  bibliography:
+  - 'Dejung, Christof; Petersson, Niels P. (éds.), <i>The foundations of worldwide economic integration: power, institutions, and global markets, 1850-1930</i>, Cambridge: Cambridge University Press, 2013 (Cambridge studies in the emergence of global enterprise).'
